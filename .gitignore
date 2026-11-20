@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Проміжні дані відтворюються ноутбуком
+data/processed/*.parquet
+
+# Tableau
+*.twbr
+~*.twbx
+
+# ОС / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
