@@ -5,6 +5,10 @@
 Виконав: Топчій Артем, група 401-ТН
 Репозиторій: https://github.com/Ever4k/data-analysis-coursework
 
+**Дашборд Tableau Public:** https://public.tableau.com/app/profile/artem.topchii/viz/MavenFuzzyFactory-MarketingChannelsAnalysis/MavenFuzzyFactory20122015
+
+![Дашборд](results/figures/10_tableau_dashboard.png)
+
 ## Мета
 
 Оцінити ефективність маркетингових каналів і рекламних кампаній інтернет-магазину за показниками трафіку, конверсії, виручки й маржинального прибутку та сформулювати рекомендації щодо розподілу маркетингового бюджету.
@@ -48,7 +52,7 @@ course-project/
 ├── notebooks/
 │   └── analysis.ipynb   # основний ноутбук: повний цикл аналізу
 ├── results/
-│   ├── figures/         # 9 графіків (PNG)
+│   ├── figures/         # 9 графіків + скриншот дашборду (PNG)
 │   └── exports/         # результати обчислень (CSV)
 ├── tableau/             # дані та інструкція для дашборду Tableau Public
 ├── README.md

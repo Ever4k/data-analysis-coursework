@@ -1,5 +1,9 @@
 # Дашборд Tableau Public: «Ефективність маркетингових каналів Maven Fuzzy Factory»
 
+**Опублікований дашборд:** https://public.tableau.com/app/profile/artem.topchii/viz/MavenFuzzyFactory-MarketingChannelsAnalysis/MavenFuzzyFactory20122015
+
+Фактична структура: 4 аркуші (Динаміка, Структура трафіку, Канали, Канал × пристрій), фільтри device_type і Year of date (діють на всі аркуші), дія «Use as Filter» на аркуші «Канали». Нижче — інструкція для відтворення.
+
 Файли даних (створює ноутбук, розділ 6):
 
 | Файл | Рядків | Поля |
